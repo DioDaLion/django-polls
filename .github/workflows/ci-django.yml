@@ -1,4 +1,4 @@
-name: CI/CD - Django Polls
+name: Django Pollssss
 
 on:
   push:
